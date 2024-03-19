@@ -1,0 +1,9 @@
+void main() {
+  String name = "Clemence";
+  int age = 25;
+  String school = "ABC School";
+  String hobby = "playing guitar";
+  
+  print("My name is Clemence. I am 25 years old and I attend ABC school. My hobby is playing  guitar.");
+}
+ 
